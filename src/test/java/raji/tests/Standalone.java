@@ -18,7 +18,7 @@ public class Standalone {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
+	//new commands for web hook
 		
 		String[] list={"ZARA COAT 3","ADIDAS ORIGINAL"};
 		List<String> productlist = Arrays.asList(list);

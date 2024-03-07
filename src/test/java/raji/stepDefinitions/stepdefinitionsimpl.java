@@ -27,6 +27,7 @@ public class stepdefinitionsimpl extends BaseTest {
 	public void I_landed_on_Ecommerce_page() throws IOException
 	{
 		landingpage=launchapplication();
+
 	}
 	@Given("^logged in with username (.+) and password (.+)$")
 	public void logged_in_with_username_and_password(String username,String password)
